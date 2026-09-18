@@ -1,0 +1,6 @@
+Client,Train Samples,Train Groups,Val Samples,Val Groups,Val %,Test Samples,Test Groups
+client_1,576,401,67,47,10.42%,161,59
+client_2,579,392,64,56,9.95%,161,125
+client_3,578,387,64,60,9.97%,161,125
+client_4,578,387,64,60,9.97%,160,124
+client_5,578,420,64,27,9.97%,160,124

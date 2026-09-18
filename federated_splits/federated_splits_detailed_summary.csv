@@ -1,0 +1,25 @@
+Client,Split,Total Photos,CSAM Sensitive,CSAM Non Sensitive,Non CSAM
+client_1,train,576,165,135,276
+client_1,val,67,17,19,31
+client_1,test,161,108,9,44
+client_1,total,804,290,163,351
+client_2,train,579,211,113,255
+client_2,val,64,17,9,38
+client_2,test,161,34,45,82
+client_2,total,804,262,167,375
+client_3,train,578,220,103,255
+client_3,val,64,16,17,31
+client_3,test,161,51,28,82
+client_3,total,803,287,148,368
+client_4,train,578,178,144,256
+client_4,val,64,11,10,43
+client_4,test,160,57,23,80
+client_4,total,802,246,177,379
+client_5,train,578,205,93,280
+client_5,val,64,44,5,15
+client_5,test,160,51,27,82
+client_5,total,802,300,125,377
+ALL_CLIENTS,train,2889,979,588,1322
+ALL_CLIENTS,val,323,105,60,158
+ALL_CLIENTS,test,803,301,132,370
+ALL_CLIENTS,total,4015,1385,780,1850

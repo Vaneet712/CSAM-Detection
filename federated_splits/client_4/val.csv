@@ -1,0 +1,65 @@
+image name,filepath,label,subtype,group_id
+1401.jpg,/Non_CSAM/images/1401.jpg,NON_CSAM,Non sensitive,1401.jpg
+3031.png,/Non_CSAM/images/3031.png,NON_CSAM,Non sensitive,3031.png
+2658.jpg,/Non_CSAM/images/2658.jpg,NON_CSAM,Non sensitive,2658.jpg
+1455.jpg,/Non_CSAM/images/1455.jpg,NON_CSAM,Non sensitive,1455.jpg
+0602.jpg,/Non_CSAM/images/0602.jpg,NON_CSAM,Non sensitive,0602.jpg
+1786.jpg,/Non_CSAM/images/1786.jpg,NON_CSAM,Non sensitive,1786.jpg
+0747.webp,/Non_CSAM/images/0747.webp,NON_CSAM,Non sensitive,0747.webp
+3051.png,/Non_CSAM/images/3051.png,NON_CSAM,Non sensitive,3051.png
+2638.jpg,/Non_CSAM/images/2638.jpg,NON_CSAM,Non sensitive,2638.jpg
+1423.jpg,/Non_CSAM/images/1423.jpg,NON_CSAM,Non sensitive,1423.jpg
+2763.jpg,/Non_CSAM/images/2763.jpg,NON_CSAM,Non sensitive,2763.jpg
+0752.webp,/Non_CSAM/images/0752.webp,NON_CSAM,Non sensitive,0752.webp
+0154.jpg,/Non_CSAM/images/0154.jpg,NON_CSAM,Non sensitive,0154.jpg
+1368.jpg,/Non_CSAM/images/1368.jpg,NON_CSAM,Non sensitive,1368.jpg
+0737.jpg,/Non_CSAM/images/0737.jpg,NON_CSAM,Non sensitive,0737.jpg
+0194.jpg,/Non_CSAM/images/0194.jpg,NON_CSAM,Non sensitive,0194.jpg
+0470.jpg,/Non_CSAM/images/0470.jpg,NON_CSAM,Non sensitive,0470.jpg
+2582.jpg,/Non_CSAM/images/2582.jpg,NON_CSAM,Non sensitive,2582.jpg
+2616.jpg,/Non_CSAM/images/2616.jpg,NON_CSAM,Non sensitive,2616.jpg
+0357.jpg,/Non_CSAM/images/0357.jpg,NON_CSAM,Non sensitive,0357.jpg
+2832.png,/Non_CSAM/images/2832.png,NON_CSAM,Non sensitive,2832.png
+0027.jpeg,/Non_CSAM/images/0027.jpeg,NON_CSAM,Non sensitive,0027.jpeg
+0528.jpg,/Non_CSAM/images/0528.jpg,NON_CSAM,Non sensitive,0528.jpg
+0393.jpg,/Non_CSAM/images/0393.jpg,NON_CSAM,Non sensitive,0393.jpg
+2617.jpg,/Non_CSAM/images/2617.jpg,NON_CSAM,Non sensitive,2617.jpg
+1395.jpg,/Non_CSAM/images/1395.jpg,NON_CSAM,Non sensitive,1395.jpg
+1802.jpg,/Non_CSAM/images/1802.jpg,NON_CSAM,Non sensitive,1802.jpg
+2903.png,/Non_CSAM/images/2903.png,NON_CSAM,Non sensitive,2903.png
+2800.jpg,/Non_CSAM/images/2800.jpg,NON_CSAM,Non sensitive,2800.jpg
+3390.jpg,/CSAM_non_sens/images/3390.jpg,CSAM,Non sensitive,3390.jpg
+1983.jpg,/CSAM_non_sens/images/1983.jpg,CSAM,Non sensitive,1983.jpg
+0887.jpg,/CSAM_non_sens/images/0887.jpg,CSAM,Non sensitive,0887.jpg
+1965.jpg,/CSAM_non_sens/images/1965.jpg,CSAM,Non sensitive,1965.jpg
+1971.jpg,/CSAM_non_sens/images/1971.jpg,CSAM,Non sensitive,1971.jpg
+3248.jpg,/CSAM_non_sens/images/3248.jpg,CSAM,Non sensitive,3248.jpg
+2070.jpg,/CSAM_non_sens/images/2070.jpg,CSAM,Non sensitive,2070.jpg
+1899.jpg,/CSAM_non_sens/images/1899.jpg,CSAM,Non sensitive,1899.jpg
+1101.jpeg,/CSAM_sens/images/1101.jpeg,CSAM,Sensitive,1101.jpeg
+0908.jpg,/CSAM_sens/images/0908.jpg,CSAM,Sensitive,0908.jpg
+1035.jpg,/CSAM_sens/images/1035.jpg,CSAM,Sensitive,1035.jpg
+3548.png,/CSAM_sens/videos/video062/3548.png,CSAM,Sensitive,video062
+3549.png,/CSAM_sens/videos/video062/3549.png,CSAM,Sensitive,video062
+3550.png,/CSAM_sens/videos/video062/3550.png,CSAM,Sensitive,video062
+3551.png,/CSAM_sens/videos/video062/3551.png,CSAM,Sensitive,video062
+3552.png,/CSAM_sens/videos/video062/3552.png,CSAM,Sensitive,video062
+1030.jpg,/CSAM_sens/images/1030.jpg,CSAM,Sensitive,1030.jpg
+1086.jpeg,/CSAM_sens/images/1086.jpeg,CSAM,Sensitive,1086.jpeg
+0694.jpg,/Non_CSAM/images/0694.jpg,NON_CSAM,Non sensitive,0694.jpg
+3060.jpg,/Non_CSAM/images/3060.jpg,NON_CSAM,Non sensitive,3060.jpg
+2814.jpg,/Non_CSAM/images/2814.jpg,NON_CSAM,Non sensitive,2814.jpg
+2596.jpg,/Non_CSAM/images/2596.jpg,NON_CSAM,Non sensitive,2596.jpg
+0447.jpg,/Non_CSAM/images/0447.jpg,NON_CSAM,Non sensitive,0447.jpg
+1766.jpg,/Non_CSAM/images/1766.jpg,NON_CSAM,Non sensitive,1766.jpg
+0303.jpg,/Non_CSAM/images/0303.jpg,NON_CSAM,Non sensitive,0303.jpg
+2636.jpg,/Non_CSAM/images/2636.jpg,NON_CSAM,Non sensitive,2636.jpg
+2789.jpg,/Non_CSAM/images/2789.jpg,NON_CSAM,Non sensitive,2789.jpg
+1876.jpg,/CSAM_non_sens/images/1876.jpg,CSAM,Non sensitive,1876.jpg
+1140.jpeg,/CSAM_sens/images/1140.jpeg,CSAM,Sensitive,1140.jpeg
+2712.jpg,/Non_CSAM/images/2712.jpg,NON_CSAM,Non sensitive,2712.jpg
+3078.jpg,/Non_CSAM/images/3078.jpg,NON_CSAM,Non sensitive,3078.jpg
+1546.jpg,/Non_CSAM/images/1546.jpg,NON_CSAM,Non sensitive,1546.jpg
+3114.jpg,/Non_CSAM/images/3114.jpg,NON_CSAM,Non sensitive,3114.jpg
+0118.jpg,/Non_CSAM/images/0118.jpg,NON_CSAM,Non sensitive,0118.jpg
+3192.jpg,/CSAM_non_sens/images/3192.jpg,CSAM,Non sensitive,3192.jpg

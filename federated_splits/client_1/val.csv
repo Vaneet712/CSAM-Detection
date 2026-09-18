@@ -1,0 +1,68 @@
+image name,filepath,label,subtype,group_id
+0358.jpg,/Non_CSAM/images/0358.jpg,NON_CSAM,Non sensitive,0358.jpg
+0438.jpg,/Non_CSAM/images/0438.jpg,NON_CSAM,Non sensitive,0438.jpg
+1578.jpg,/Non_CSAM/images/1578.jpg,NON_CSAM,Non sensitive,1578.jpg
+0700.jpg,/Non_CSAM/images/0700.jpg,NON_CSAM,Non sensitive,0700.jpg
+0163.jpg,/Non_CSAM/images/0163.jpg,NON_CSAM,Non sensitive,0163.jpg
+1364.jpg,/Non_CSAM/images/1364.jpg,NON_CSAM,Non sensitive,1364.jpg
+0417.jpg,/Non_CSAM/images/0417.jpg,NON_CSAM,Non sensitive,0417.jpg
+2863.png,/Non_CSAM/images/2863.png,NON_CSAM,Non sensitive,2863.png
+0481.jpg,/Non_CSAM/images/0481.jpg,NON_CSAM,Non sensitive,0481.jpg
+0666.jpg,/Non_CSAM/images/0666.jpg,NON_CSAM,Non sensitive,0666.jpg
+3121.jpg,/Non_CSAM/images/3121.jpg,NON_CSAM,Non sensitive,3121.jpg
+0592.jpg,/Non_CSAM/images/0592.jpg,NON_CSAM,Non sensitive,0592.jpg
+0422.jpg,/Non_CSAM/images/0422.jpg,NON_CSAM,Non sensitive,0422.jpg
+0548.jpg,/Non_CSAM/images/0548.jpg,NON_CSAM,Non sensitive,0548.jpg
+3035.png,/Non_CSAM/images/3035.png,NON_CSAM,Non sensitive,3035.png
+2901.png,/Non_CSAM/images/2901.png,NON_CSAM,Non sensitive,2901.png
+0439.jpg,/Non_CSAM/images/0439.jpg,NON_CSAM,Non sensitive,0439.jpg
+0693.jpg,/Non_CSAM/images/0693.jpg,NON_CSAM,Non sensitive,0693.jpg
+1497.jpg,/Non_CSAM/images/1497.jpg,NON_CSAM,Non sensitive,1497.jpg
+1606.jpg,/Non_CSAM/images/1606.jpg,NON_CSAM,Non sensitive,1606.jpg
+0537.jpg,/Non_CSAM/images/0537.jpg,NON_CSAM,Non sensitive,0537.jpg
+1916.jpg,/CSAM_non_sens/images/1916.jpg,CSAM,Non sensitive,1916.jpg
+1920.jpg,/CSAM_non_sens/images/1920.jpg,CSAM,Non sensitive,1920.jpg
+3130.jpg,/CSAM_non_sens/images/3130.jpg,CSAM,Non sensitive,3130.jpg
+1834.jpg,/CSAM_non_sens/images/1834.jpg,CSAM,Non sensitive,1834.jpg
+3254.jpg,/CSAM_non_sens/images/3254.jpg,CSAM,Non sensitive,3254.jpg
+0998.jpg,/CSAM_sens/images/0998.jpg,CSAM,Sensitive,0998.jpg
+3671.png,/CSAM_sens/videos/video038/3671.png,CSAM,Sensitive,video038
+3672.png,/CSAM_sens/videos/video038/3672.png,CSAM,Sensitive,video038
+1090.jpeg,/CSAM_sens/images/1090.jpeg,CSAM,Sensitive,1090.jpeg
+1239.jpg,/CSAM_sens/images/1239.jpg,CSAM,Sensitive,1239.jpg
+0907.jpg,/CSAM_sens/images/0907.jpg,CSAM,Sensitive,0907.jpg
+3646.png,/CSAM_sens/videos/video042/3646.png,CSAM,Sensitive,video042
+3647.png,/CSAM_sens/videos/video042/3647.png,CSAM,Sensitive,video042
+3648.png,/CSAM_sens/videos/video042/3648.png,CSAM,Sensitive,video042
+3649.png,/CSAM_sens/videos/video042/3649.png,CSAM,Sensitive,video042
+2774.jpg,/Non_CSAM/images/2774.jpg,NON_CSAM,Non sensitive,2774.jpg
+2665.jpg,/Non_CSAM/images/2665.jpg,NON_CSAM,Non sensitive,2665.jpg
+1575.jpg,/Non_CSAM/images/1575.jpg,NON_CSAM,Non sensitive,1575.jpg
+2052.jpg,/CSAM_non_sens/images/2052.jpg,CSAM,Non sensitive,2052.jpg
+2015.jpg,/CSAM_non_sens/images/2015.jpg,CSAM,Non sensitive,2015.jpg
+3172.jpg,/CSAM_non_sens/videos/video038/3172.jpg,CSAM,Non sensitive,video038
+3173.jpg,/CSAM_non_sens/videos/video038/3173.jpg,CSAM,Non sensitive,video038
+3174.jpg,/CSAM_non_sens/videos/video038/3174.jpg,CSAM,Non sensitive,video038
+3175.jpg,/CSAM_non_sens/videos/video038/3175.jpg,CSAM,Non sensitive,video038
+3177.jpg,/CSAM_non_sens/videos/video038/3177.jpg,CSAM,Non sensitive,video038
+3178.jpg,/CSAM_non_sens/videos/video038/3178.jpg,CSAM,Non sensitive,video038
+1974.jpg,/CSAM_non_sens/images/1974.jpg,CSAM,Non sensitive,1974.jpg
+3824.png,/CSAM_sens/videos/video022/3824.png,CSAM,Sensitive,video022
+3825.png,/CSAM_sens/videos/video022/3825.png,CSAM,Sensitive,video022
+3826.png,/CSAM_sens/videos/video022/3826.png,CSAM,Sensitive,video022
+3827.png,/CSAM_sens/videos/video022/3827.png,CSAM,Sensitive,video022
+3828.png,/CSAM_sens/videos/video022/3828.png,CSAM,Sensitive,video022
+3829.png,/CSAM_sens/videos/video022/3829.png,CSAM,Sensitive,video022
+3830.png,/CSAM_sens/videos/video022/3830.png,CSAM,Sensitive,video022
+0449.jpg,/Non_CSAM/images/0449.jpg,NON_CSAM,Non sensitive,0449.jpg
+0238.jpg,/Non_CSAM/images/0238.jpg,NON_CSAM,Non sensitive,0238.jpg
+2837.png,/Non_CSAM/images/2837.png,NON_CSAM,Non sensitive,2837.png
+2881.png,/Non_CSAM/images/2881.png,NON_CSAM,Non sensitive,2881.png
+0409.jpg,/Non_CSAM/images/0409.jpg,NON_CSAM,Non sensitive,0409.jpg
+0055.webp,/Non_CSAM/images/0055.webp,NON_CSAM,Non sensitive,0055.webp
+0463.jpg,/Non_CSAM/images/0463.jpg,NON_CSAM,Non sensitive,0463.jpg
+0832.webp,/CSAM_non_sens/images/0832.webp,CSAM,Non sensitive,0832.webp
+0799.webp,/CSAM_non_sens/videos/video022/0799.webp,CSAM,Non sensitive,video022
+0800.webp,/CSAM_non_sens/videos/video022/0800.webp,CSAM,Non sensitive,video022
+0801.webp,/CSAM_non_sens/videos/video022/0801.webp,CSAM,Non sensitive,video022
+0802.webp,/CSAM_non_sens/videos/video022/0802.webp,CSAM,Non sensitive,video022

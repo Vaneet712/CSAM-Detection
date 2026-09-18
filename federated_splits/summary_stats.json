@@ -1,0 +1,112 @@
+[
+  {
+    "client": "client_1",
+    "train_samples": 576,
+    "train_groups": 401,
+    "train_labels": {
+      "CSAM": 300,
+      "NON_CSAM": 276
+    },
+    "val_samples": 67,
+    "val_groups": 47,
+    "val_labels": {
+      "CSAM": 36,
+      "NON_CSAM": 31
+    },
+    "val_percent": 10.42,
+    "test_samples": 161,
+    "test_groups": 59,
+    "test_labels": {
+      "CSAM": 117,
+      "NON_CSAM": 44
+    }
+  },
+  {
+    "client": "client_2",
+    "train_samples": 579,
+    "train_groups": 392,
+    "train_labels": {
+      "CSAM": 324,
+      "NON_CSAM": 255
+    },
+    "val_samples": 64,
+    "val_groups": 56,
+    "val_labels": {
+      "NON_CSAM": 38,
+      "CSAM": 26
+    },
+    "val_percent": 9.95,
+    "test_samples": 161,
+    "test_groups": 125,
+    "test_labels": {
+      "NON_CSAM": 82,
+      "CSAM": 79
+    }
+  },
+  {
+    "client": "client_3",
+    "train_samples": 578,
+    "train_groups": 387,
+    "train_labels": {
+      "CSAM": 323,
+      "NON_CSAM": 255
+    },
+    "val_samples": 64,
+    "val_groups": 60,
+    "val_labels": {
+      "CSAM": 33,
+      "NON_CSAM": 31
+    },
+    "val_percent": 9.97,
+    "test_samples": 161,
+    "test_groups": 125,
+    "test_labels": {
+      "NON_CSAM": 82,
+      "CSAM": 79
+    }
+  },
+  {
+    "client": "client_4",
+    "train_samples": 578,
+    "train_groups": 387,
+    "train_labels": {
+      "CSAM": 322,
+      "NON_CSAM": 256
+    },
+    "val_samples": 64,
+    "val_groups": 60,
+    "val_labels": {
+      "NON_CSAM": 43,
+      "CSAM": 21
+    },
+    "val_percent": 9.97,
+    "test_samples": 160,
+    "test_groups": 124,
+    "test_labels": {
+      "NON_CSAM": 80,
+      "CSAM": 80
+    }
+  },
+  {
+    "client": "client_5",
+    "train_samples": 578,
+    "train_groups": 420,
+    "train_labels": {
+      "CSAM": 298,
+      "NON_CSAM": 280
+    },
+    "val_samples": 64,
+    "val_groups": 27,
+    "val_labels": {
+      "CSAM": 49,
+      "NON_CSAM": 15
+    },
+    "val_percent": 9.97,
+    "test_samples": 160,
+    "test_groups": 124,
+    "test_labels": {
+      "NON_CSAM": 82,
+      "CSAM": 78
+    }
+  }
+]
