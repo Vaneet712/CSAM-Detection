@@ -38,13 +38,13 @@ python training/train.py
 
 ## Federated Training
 
-python federated/server.py
+python federated/run_federated_main_model.py
 
 ------------------------------------------------
 
 ## Evaluation
 
-python evaluation/test.py
+cross_validation.py
 
 ------------------------------------------------
 
